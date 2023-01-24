@@ -12,4 +12,4 @@
 
 
 ## Projetos:
-* [Dados Airbnb de Dallas](https://github.com/gadelhadev/Analise_Airbnb_Dallas.git) 
+* [Dados Airbnb de Dallas](https://github.com/gadelhadev/Dados_Airbnb_Dallas.git) 
